@@ -1,16 +1,17 @@
-## Hi there 👋
+## About me
+Hello! I'm Louis, currently a student at HEC Paris and Bocconi. My projects are about fusing electronics and software, APIs, and the odd Android mobile app alongside its web version. I am passionate about data science, and about building tools that can help to solve real-world problems.
 
-<!--
-**louisdenaiffe/louisdenaiffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💪🏻 My skills
+- 🛠️ Technical stack: Linux, Git, Python, SQL, HTML
+- 🧠 Soft skills : adaptability, critical thinking, problem-solving
 
-Here are some ideas to get you started:
+## 🏗️ My projects
+- 🤖 [Tiny Jarvis (Offline Voice-controlled AI Chatbot)](https://github.com/louisdenaiffe/Tiny_Jarvis)
+- 📚 [Citabac Android Mobile App](https://github.com/louisdenaiffe/Citabac)
+- 📖 [Citabac web version](https://github.com/louisdenaiffe/citabac-web)
+- 👀 [OCR FastAPI backend server](https://github.com/louisdenaiffe/OCR-server)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 My contacts
+Feel free to reach out!
+- [Email](louisdenaiffe@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/louis-denaiffe-30b8583b5/)
