@@ -1,5 +1,5 @@
 # About me
-Hello! I'm Louis, currently a student at HEC Paris and Bocconi. My projects are about fusing electronics and software, APIs, and the odd Android mobile app alongside its web version. I am passionate about data science, and about building tools that can help to solve real-world problems.
+Hello! I'm Louis, currently a student at HEC Paris and Bocconi. My projects are about fusing electronics and software, APIs, and the odd Android mobile/web app. I am passionate about data science, and about building tools that can help to solve real-world problems.
 
 # 💪🏻 My skills
 - 🛠️ Technical stack: Linux, Git, Python, SQL, HTML
