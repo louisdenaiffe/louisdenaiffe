@@ -9,6 +9,7 @@ Hello! I'm Louis, currently a student at HEC Paris and Bocconi. My projects are 
 - 🤖 [Tiny Jarvis (Offline Voice-controlled AI Chatbot)](https://github.com/louisdenaiffe/Tiny_Jarvis)
 - 📚 [Citabac Android Mobile App](https://github.com/louisdenaiffe/Citabac)
 - 📖 [Citabac web version](https://github.com/louisdenaiffe/citabac-web)
+- 💪 [2048 AI solver](https://github.com/louisdenaiffe/2048-AI) (in progress)
 - 👀 [OCR FastAPI backend server](https://github.com/louisdenaiffe/OCR-server)
 
 # 📬 My contacts
