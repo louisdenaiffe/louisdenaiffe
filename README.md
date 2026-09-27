@@ -6,6 +6,7 @@ Hello! I'm Louis, currently a student at HEC Paris and Bocconi. My projects are 
 - 🧠 Soft skills : adaptability, critical thinking, problem-solving
 
 # 🏗️ My projects
+- 🦻 [Blink - Hackathon web app](https://github.com/andreamonsa/blink/tree/main)
 - 🤖 [Tiny Jarvis (Offline Voice-controlled AI Chatbot)](https://github.com/louisdenaiffe/Tiny_Jarvis)
 - 📚 [Citabac Android Mobile App](https://github.com/louisdenaiffe/Citabac)
 - 📖 [Citabac web version](https://github.com/louisdenaiffe/citabac-web)
