@@ -1,20 +1,35 @@
-# About me
-Hello! I'm Louis, currently a student at HEC Paris and Bocconi. My projects are about fusing electronics and software, APIs, and the odd Android mobile/web app. I am passionate about data science, and about building tools that can help to solve real-world problems.
+Hello! I'm Louis, currently a student at HEC Paris and Bocconi. My projects are about fusing electronics and software, APIs, and the odd Android mobile/web app. I am passionate about data science, and about building tools that can help to solve real-world problems. 
 
-# 💪🏻 My skills
-- 🛠️ Technical stack: Linux, Git, Python, SQL (basic), HTML
-- 🧠 Soft skills : adaptability, critical thinking, problem-solving
+[![Email](https://img.shields.io/badge/Email-louisdenaiffe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisdenaiffe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-LouisD2008-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LouisD2008/)
 
-# 🏗️ My projects
-- 🦻 [Blink - Hackathon web app](https://github.com/andreamonsa/blink/tree/main) (2nd place BAINSA Accessibility Hackathon)
-- 🤖 [Tiny Jarvis (Offline Voice-controlled AI Chatbot)](https://github.com/louisdenaiffe/Tiny_Jarvis)
-- 📚 [Citabac Android Mobile App](https://github.com/louisdenaiffe/Citabac)
-- 📖 [Citabac web version](https://github.com/louisdenaiffe/citabac-web)
-- 💪 [2048 AI solver](https://github.com/louisdenaiffe/2048-AI) (in progress)
-- 💨 [OCR FastAPI backend server](https://github.com/louisdenaiffe/OCR-server)
-- 👀 [Drone object detection model](https://github.com/louisdenaiffe/drone-ai)
+---
 
-# 📬 My contacts
-Feel free to reach out!
-- [Email](louisdenaiffe@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/louis-denaiffe-30b8583b5/)
+### 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 🏗️ Projects
+
+| Project | Description | Link |
+| :--- | :--- | :---: |
+| 🦻 **Blink** | Hackathon web app *(2nd place BAINSA Accessibility Hackathon)* | [Repository](https://github.com/andreamonsa/blink/tree/main) |
+| 🤖 **Tiny Jarvis** | Offline Voice-controlled AI Chatbot | [Repository](https://github.com/louisdenaiffe/Tiny_Jarvis) |
+| 📚 **Citabac** | Mobile App & Web platform | [Mobile App](https://github.com/louisdenaiffe/Citabac) • [Web App](https://github.com/louisdenaiffe/citabac-web) |
+| 👀 **Drone AI** | Object detection model for drones | [Repository](https://github.com/louisdenaiffe/drone-ai) |
+| 💨 **OCR Server** | FastAPI backend server | [Repository](https://github.com/louisdenaiffe/OCR-server) |
+| 🧩 **2048 AI Solver** | Automated solver for 2048 *(In progress)* | [Repository](https://github.com/louisdenaiffe/2048-AI) |
+
+---
+
+### 🧠 Core Strengths
+
+Adaptability • Critical Thinking • Problem-Solving
