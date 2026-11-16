@@ -28,6 +28,7 @@ Hello! I'm Louis:
 | 👀 **Drone AI** | Object detection model for drones | [Repository](https://github.com/louisdenaiffe/drone-ai) |
 | 💨 **OCR Server** | FastAPI backend server | [Repository](https://github.com/louisdenaiffe/OCR-server) |
 | 🧩 **2048 AI Solver** | Automated solver for 2048 *(In progress)* | [Repository](https://github.com/louisdenaiffe/2048-AI) |
+| 🌎 **Fireglobe** | NASA Space Apps Challenge web app | [Repository](https://github.com/louisdenaiffe/modis-viirs-harmonization) |
 
 ---
 
