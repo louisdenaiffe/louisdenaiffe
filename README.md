@@ -18,17 +18,17 @@ Hello! I'm Louis:
 
 ---
 
-### 🏗️ Projects
+### 🏗️ Projects (ordered from most recent to less)
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
+| 🧩 **2048 AI Solver** | DQN + expectimax agent for 2048: reaches 2048 in 98% of unseen games | [Repository](https://github.com/louisdenaiffe/2048-AI) |
+| 🌎 **Fireglobe** | NASA Space Apps Challenge web app | [Repository](https://github.com/louisdenaiffe/modis-viirs-harmonization) |
 | 🦻 **Blink** | Hackathon web app *(2nd place BAINSA Accessibility Hackathon)* | [Repository](https://github.com/andreamonsa/blink/tree/main) |
 | 🤖 **Tiny Jarvis** | Offline Voice-controlled AI Chatbot | [Repository](https://github.com/louisdenaiffe/Tiny_Jarvis) |
 | 📚 **Citabac** | Mobile App & Web platform | [Mobile App](https://github.com/louisdenaiffe/Citabac) • [Web App](https://github.com/louisdenaiffe/citabac-web) |
 | 👀 **Drone AI** | Object detection model for drones | [Repository](https://github.com/louisdenaiffe/drone-ai) |
 | 💨 **OCR Server** | FastAPI backend server | [Repository](https://github.com/louisdenaiffe/OCR-server) |
-| 🧩 **2048 AI Solver** | DQN + expectimax agent for 2048: reaches 2048 in 98% of unseen games | [Repository](https://github.com/louisdenaiffe/2048-AI) |
-| 🌎 **Fireglobe** | NASA Space Apps Challenge web app | [Repository](https://github.com/louisdenaiffe/modis-viirs-harmonization) |
 
 ---
 
